@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# nome 6\bin\Debug\net10.0\C# nome 6.exe
+C:\Users\Admin\Desktop\C# nome 6\bin\Debug\net10.0\C# nome 6.deps.json
+C:\Users\Admin\Desktop\C# nome 6\bin\Debug\net10.0\C# nome 6.runtimeconfig.json
+C:\Users\Admin\Desktop\C# nome 6\bin\Debug\net10.0\C# nome 6.dll
+C:\Users\Admin\Desktop\C# nome 6\bin\Debug\net10.0\C# nome 6.pdb
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.dll
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\refint\C# nome 6.dll
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.pdb
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\C# nome 6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# nome 6\obj\Debug\net10.0\ref\C# nome 6.dll
